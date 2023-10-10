@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/Pages/LearnBlazor/BindProp.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhcm5CbGF6b3IvQmluZFByb3AucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

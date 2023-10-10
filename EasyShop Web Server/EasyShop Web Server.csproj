@@ -8,4 +8,10 @@
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'EasyShop Web Server' " />
+  <ItemGroup>
+    <None Remove="Pages\LearnBlazor\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pages\LearnBlazor\" />
+  </ItemGroup>
 </Project>
