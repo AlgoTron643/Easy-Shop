@@ -1,0 +1,32 @@
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/bin/Debug/net6.0/appsettings.Development.json
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/bin/Debug/net6.0/appsettings.json
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/bin/Debug/net6.0/EasyShop Web Server.staticwebassets.runtime.json
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/bin/Debug/net6.0/EasyShop Web Server
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/bin/Debug/net6.0/EasyShop Web Server.deps.json
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/bin/Debug/net6.0/EasyShop Web Server.runtimeconfig.json
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/bin/Debug/net6.0/EasyShop Web Server.dll
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/bin/Debug/net6.0/EasyShop Web Server.pdb
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.csproj.AssemblyReference.cache
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.AssemblyInfoInputs.cache
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.AssemblyInfo.cs
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.csproj.CoreCompileInputs.cache
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.MvcApplicationPartsAssemblyInfo.cache
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.RazorAssemblyInfo.cache
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.RazorAssemblyInfo.cs
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/staticwebassets/msbuild.EasyShop Web Server.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/staticwebassets/msbuild.build.EasyShop Web Server.props
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.EasyShop Web Server.props
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.EasyShop Web Server.props
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/staticwebassets.build.json
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/staticwebassets.development.json
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/scopedcss/bundle/EasyShop Web Server.styles.css
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/scopedcss/projectbundle/EasyShop Web Server.bundle.scp.css
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.dll
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/refint/EasyShop Web Server.dll
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.pdb
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/EasyShop Web Server.genruntimeconfig.cache
+/Users/snewaz/Desktop/GitHub Projects/Blazor Projects/EasyShop/EasyShop Web Server/obj/Debug/net6.0/ref/EasyShop Web Server.dll
